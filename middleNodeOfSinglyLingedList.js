@@ -1,3 +1,6 @@
+// Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
+// 1->2->3->4->5
+
 class ListNode {
     constructor(val = 0, next = null) {
         this.val = val;
